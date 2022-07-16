@@ -1,0 +1,140 @@
+{
+    "basics": {
+        "name": "Devanshu",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2033@iiitkota.ac.in",
+        "phone": "+918707740700",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication & engineering.",
+        "location": {
+            "address": "Lucknow",
+            "postalCode": "226012",
+            "city": "Lucknow",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "DevanshuSaran",
+                "url": "https://twitter.com/DevanshuSaran"
+            },
+            {
+                "network": "Github",
+                "username": "inni-69",
+                "url": "https://github.com/inni-69"
+            },
+            {
+                "network": "linkedin",
+                "username": "devanshusaran",
+                "url": "https://www.linkedin.com/in/devanshusaran/"
+            },
+            {
+                "network": "Instagram",
+                "username": "devanshu.saran",
+                "url": "https://www.instagram.com/devanshu.saran/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Btech",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                " Electronics and Communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "C/C++"
+                
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Gaming",
+            "keywords": [
+                "Valorant",
+                "CS GO",
+                "FIFA"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Football",
+                "Basketball",
+                "Table Tennis"
+            ]
+        }
+    ]
+}
